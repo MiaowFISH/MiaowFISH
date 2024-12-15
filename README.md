@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![MiaowFISH](https://count.getloli.com/@MiaowFISH?name=MiaowFISH&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <!--
 **MiaowFISH/MiaowFISH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- steam-box start -->
+<!-- steam-box end -->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
