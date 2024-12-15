@@ -1,6 +1,9 @@
 ## Hi there 👋
-![MiaowFISH's Stats](https://github-readme-stats.vercel.app/api?username=MiaowFISH&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
-![MiaowFISH](https://count.getloli.com/@MiaowFISH?name=MiaowFISH&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://count.getloli.com/@MiaowFISH?name=MiaowFISH&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="MiaowFISH" style="width: 49%; margin-right: 1%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiaowFISH&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="MiaowFISH's Stats" style="width: 49%; margin-left: 1%;">
+</div>
 
 <!--
 **MiaowFISH/MiaowFISH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
