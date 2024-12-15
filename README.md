@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![MiaowFISH's Stats](https://github-readme-stats.vercel.app/api?username=MiaowFISH&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 ![MiaowFISH](https://count.getloli.com/@MiaowFISH?name=MiaowFISH&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <!--
