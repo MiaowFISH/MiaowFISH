@@ -35,5 +35,6 @@ jobs:
           ./steam
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
+          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/MiaowFISH/MiaowFISH.git
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull --rebase && git push
