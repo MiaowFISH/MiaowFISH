@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 
 <!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 <!--START_SECTION:waka-->
