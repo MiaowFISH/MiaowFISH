@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 3 hrs 2 mins
+🎮 MUSYNX                            🕘 2 hrs 24 mins
 🎮 No Man's Sky                      🕘 13 hrs 12 mins
+🎮 DJMAX RESPECT V                   🕘 2 hrs 3 mins
 🎮 Slay the Spire                    🕘 3 hrs 29 mins
-🎮 DJMAX RESPECT V                   🕘 1 hrs 22 mins
 🎮 Home Sheep Home: Farmageddon Party Edition 🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
