@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 2 hrs 24 mins
-🎮 No Man's Sky                      🕘 13 hrs 12 mins
+🎮 No Man's Sky                      🕘 8 hrs 12 mins
 🎮 DJMAX RESPECT V                   🕘 2 hrs 3 mins
 🎮 Slay the Spire                    🕘 3 hrs 29 mins
 🎮 Home Sheep Home: Farmageddon Party Edition 🕘 0 hrs 33 mins
