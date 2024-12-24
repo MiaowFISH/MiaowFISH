@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 2 hrs 24 mins
+🎮 MUSYNX                            🕘 3 hrs 56 mins
+🎮 The Forest                        🕘 8 hrs 13 mins
 🎮 DJMAX RESPECT V                   🕘 2 hrs 3 mins
 🎮 Slay the Spire                    🕘 3 hrs 29 mins
 🎮 Atopes                            🕘 1 hrs 9 mins
-🎮 Home Sheep Home: Farmageddon Party Edition 🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
