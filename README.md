@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 3 hrs 25 mins
+🎮 MUSYNX                            🕘 2 hrs 27 mins
 🎮 Muse Dash                         🕘 2 hrs 53 mins
 🎮 The Forest                        🕘 8 hrs 13 mins
-🎮 DJMAX RESPECT V                   🕘 2 hrs 3 mins
+🎮 DJMAX RESPECT V                   🕘 1 hrs 45 mins
 🎮 Atopes                            🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
