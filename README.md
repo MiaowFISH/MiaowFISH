@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🎮 MUSYNX                            🕘 2 hrs 27 mins
 🎮 Muse Dash                         🕘 2 hrs 53 mins
 🎮 The Forest                        🕘 8 hrs 13 mins
-🎮 DJMAX RESPECT V                   🕘 1 hrs 45 mins
+🎮 DJMAX RESPECT V                   🕘 0 hrs 41 mins
 🎮 Atopes                            🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
