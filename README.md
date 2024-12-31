@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 2 hrs 27 mins
-🎮 Muse Dash                         🕘 2 hrs 53 mins
+🎮 Muse Dash                         🕘 3 hrs 35 mins
 🎮 The Forest                        🕘 8 hrs 13 mins
 🎮 DJMAX RESPECT V                   🕘 0 hrs 41 mins
 🎮 Atopes                            🕘 1 hrs 9 mins
