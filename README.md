@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Forza Horizon 4                   🕘 0 hrs 25 mins
+🎮 MUSYNX                            🕘 0 hrs 31 mins
 🎮 Muse Dash                         🕘 0 hrs 48 mins
 🎮 DJMAX RESPECT V                   🕘 2 hrs 57 mins
 🎮 Brotato                           🕘 1 hrs 46 mins
