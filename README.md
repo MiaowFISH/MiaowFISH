@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 0 hrs 31 mins
-🎮 Muse Dash                         🕘 0 hrs 48 mins
 🎮 DJMAX RESPECT V                   🕘 2 hrs 57 mins
 🎮 Brotato                           🕘 1 hrs 46 mins
+🎮 Lossless Scaling                  🕘 4 hrs 31 mins
 🎮 Home Sheep Home: Farmageddon Party Edition 🕘 0 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
