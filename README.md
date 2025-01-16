@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 0 hrs 31 mins
+🎮 MUSYNX                            🕘 0 hrs 30 mins
 🎮 Lossless Scaling                  🕘 7 hrs 50 mins
-🎮 DJMAX RESPECT V                   🕘 2 hrs 57 mins
 🎮 Brotato                           🕘 1 hrs 46 mins
 🎮 Home Sheep Home: Farmageddon Party Edition 🕘 0 hrs 50 mins
+🎮 尼古丁真大战芙蓉王源  Nigudin really fought against Furong Wangyuan 🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
