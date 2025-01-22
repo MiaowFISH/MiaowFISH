@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ```text
 🎮 MUSYNX                            🕘 0 hrs 27 mins
 🎮 Lossless Scaling                  🕘 7 hrs 50 mins
-🎮 尼古丁真大战芙蓉王源  Nigudin really fought against Furong Wangyuan 🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
