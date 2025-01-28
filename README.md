@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Lossless Scaling                  🕘 7 hrs 50 mins
+🎮 Lossless Scaling                  🕘 3 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
