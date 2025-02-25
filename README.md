@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 7 mins
-🎮 MuseSwipr                         🕘 1 hrs 23 mins
+🎮 MuseSwipr                         🕘 2 hrs 22 mins
+🎮 Doloc Town DEMO                   🕘 0 hrs 52 mins
+🎮 SHOOPER NOVA Demo                 🕘 0 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
