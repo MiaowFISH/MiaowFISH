@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-💻 Wallpaper Engine                  🕘 0 hrs 7 mins
+💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 MuseSwipr                         🕘 2 hrs 22 mins
 🎮 Doloc Town DEMO                   🕘 0 hrs 52 mins
 🎮 SHOOPER NOVA Demo                 🕘 0 hrs 39 mins
