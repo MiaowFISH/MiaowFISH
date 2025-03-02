@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MuseSwipr                         🕘 2 hrs 22 mins
+🎮 MuseSwipr                         🕘 2 hrs 47 mins
+🎮 FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE Demo 🕘 1 hrs 47 mins
 🎮 Doloc Town DEMO                   🕘 0 hrs 52 mins
-🎮 SHOOPER NOVA Demo                 🕘 0 hrs 39 mins
+🎮 SHOOPER NOVA Demo                 🕘 0 hrs 46 mins
+🎮 东方夜雀食堂 - Touhou Mystia's Izakaya  🕘 0 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
