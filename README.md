@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```text
 🎮 MUSYNX                            🕘 1 hrs 40 mins
 🎮 Notanote                          🕘 1 hrs 24 mins
-🎮 MuseSwipr                         🕘 1 hrs 55 mins
+🎮 MuseSwipr                         🕘 0 hrs 56 mins
 🎮 东方夜雀食堂 - Touhou Mystia's Izakaya  🕘 1 hrs 54 mins
 🎮 FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE Demo 🕘 1 hrs 47 mins
 ```
