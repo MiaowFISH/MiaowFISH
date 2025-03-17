@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 1 hrs 40 mins
-💻 Wallpaper Engine                  🕘 0 hrs 39 mins
-🎮 Notanote                          🕘 1 hrs 24 mins
-🎮 Re:Flex                           🕘 2 hrs 29 mins
-🎮 东方夜雀食堂 - Touhou Mystia's Izakaya  🕘 1 hrs 25 mins
+💻 Wallpaper Engine                  🕘 1 hrs 15 mins
+🎮 Notanote                          🕘 0 hrs 38 mins
+🎮 Re:Flex                           🕘 3 hrs 0 mins
+🎮 Ball-it Hell                      🕘 0 hrs 31 mins
+🎮 公主与观众                             🕘 0 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
