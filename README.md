@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 💻 Wallpaper Engine                  🕘 1 hrs 15 mins
-🎮 Re:Flex                           🕘 3 hrs 0 mins
+🎮 Re:Flex                           🕘 4 hrs 16 mins
 🎮 Ball-it Hell                      🕘 0 hrs 31 mins
 🎮 公主与观众                             🕘 0 hrs 36 mins
 🎮 黏糊笔记                              🕘 0 hrs 7 mins
