@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```text
 🎮 MUSYNX                            🕘 0 hrs 20 mins
 💻 Wallpaper Engine                  🕘 1 hrs 15 mins
-🎮 Re:Flex                           🕘 4 hrs 46 mins
+🎮 Re:Flex                           🕘 5 hrs 5 mins
 🎮 Ball-it Hell                      🕘 0 hrs 31 mins
 🎮 公主与观众                             🕘 0 hrs 36 mins
 ```
