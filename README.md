@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 0 hrs 20 mins
+🎮 MUSYNX                            🕘 0 hrs 22 mins
 💻 Wallpaper Engine                  🕘 1 hrs 15 mins
 🎮 Re:Flex                           🕘 5 hrs 5 mins
 🎮 Ball-it Hell                      🕘 0 hrs 31 mins
