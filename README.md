@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 🎮 MUSYNX                            🕘 0 hrs 22 mins
 💻 Wallpaper Engine                  🕘 1 hrs 15 mins
 🎮 Re:Flex                           🕘 5 hrs 5 mins
-🎮 Ball-it Hell                      🕘 0 hrs 31 mins
-🎮 公主与观众                             🕘 0 hrs 36 mins
+🎮 VRChat                            🕘 0 hrs 20 mins
+🎮 黏糊笔记                              🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
