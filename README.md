@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 0 hrs 22 mins
-💻 Wallpaper Engine                  🕘 1 hrs 15 mins
+💻 Wallpaper Engine                  🕘 0 hrs 35 mins
 🎮 Re:Flex                           🕘 5 hrs 5 mins
 🎮 VRChat                            🕘 0 hrs 20 mins
 🎮 黏糊笔记                              🕘 0 hrs 7 mins
