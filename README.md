@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🎮 MUSYNX                            🕘 0 hrs 22 mins
 💻 Wallpaper Engine                  🕘 0 hrs 35 mins
 🎮 Muse Dash                         🕘 0 hrs 13 mins
-🎮 Re:Flex                           🕘 3 hrs 33 mins
+🎮 Re:Flex                           🕘 2 hrs 35 mins
 🎮 VRChat                            🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
