@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 0 hrs 22 mins
-💻 Wallpaper Engine                  🕘 0 hrs 35 mins
 🎮 Muse Dash                         🕘 0 hrs 13 mins
-🎮 Re:Flex                           🕘 2 hrs 35 mins
+🎮 Re:Flex                           🕘 2 hrs 5 mins
 🎮 VRChat                            🕘 0 hrs 20 mins
+🎮 Ease Out                          🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
