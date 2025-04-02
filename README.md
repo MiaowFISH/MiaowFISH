@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 0 hrs 22 mins
-🎮 Re:Flex                           🕘 2 hrs 5 mins
+🎮 Re:Flex                           🕘 0 hrs 49 mins
 🎮 Notanote                          🕘 0 hrs 23 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
 🎮 VRChat                            🕘 0 hrs 20 mins
