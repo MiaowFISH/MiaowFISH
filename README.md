@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 MUSYNX                            🕘 0 hrs 22 mins
-🎮 Re:Flex                           🕘 0 hrs 49 mins
+🎮 VPet                              🕘 0 hrs 23 mins
 🎮 Notanote                          🕘 0 hrs 23 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
+🎮 Who's Your Daddy?!                🕘 0 hrs 25 mins
 🎮 VRChat                            🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
