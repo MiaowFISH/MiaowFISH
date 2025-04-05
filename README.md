@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 VPet                              🕘 0 hrs 23 mins
-🎮 Notanote                          🕘 0 hrs 22 mins
+🎮 Lossless Scaling                  🕘 6 hrs 22 mins
+🎮 SHOOPER NOVA                      🕘 1 hrs 27 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
 🎮 Who's Your Daddy?!                🕘 0 hrs 25 mins
-🎮 VRChat                            🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
