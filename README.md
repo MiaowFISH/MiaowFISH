@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```text
 🎮 VPet                              🕘 0 hrs 23 mins
 🎮 Lossless Scaling                  🕘 6 hrs 22 mins
-🎮 SHOOPER NOVA                      🕘 1 hrs 27 mins
+🎮 SHOOPER NOVA                      🕘 2 hrs 20 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
 🎮 Who's Your Daddy?!                🕘 0 hrs 25 mins
 ```
