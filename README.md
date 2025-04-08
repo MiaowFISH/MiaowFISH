@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 VPet                              🕘 0 hrs 23 mins
 🎮 Lossless Scaling                  🕘 6 hrs 22 mins
+🎮 Bongo Cat                         🕘 2 hrs 43 mins
 🎮 SHOOPER NOVA                      🕘 2 hrs 20 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
 🎮 Who's Your Daddy?!                🕘 0 hrs 25 mins
