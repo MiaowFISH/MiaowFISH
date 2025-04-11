@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 MUSYNX                            🕘 0 hrs 41 mins
-🎮 Bongo Cat                         🕘 15 hrs 0 mins
+🎮 Bongo Cat                         🕘 20 hrs 28 mins
 🎮 Lossless Scaling                  🕘 6 hrs 22 mins
 🎮 SHOOPER NOVA                      🕘 3 hrs 28 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
