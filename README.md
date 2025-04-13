@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Bongo Cat                         🕘 29 hrs 8 mins
+🎮 Bongo Cat                         🕘 45 hrs 20 mins
 🎮 Lossless Scaling                  🕘 6 hrs 22 mins
+🎮 Magicraft                         🕘 7 hrs 16 mins
 🎮 SHOOPER NOVA                      🕘 3 hrs 28 mins
-🎮 Magicraft                         🕘 2 hrs 29 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
