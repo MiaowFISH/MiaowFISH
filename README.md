@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 🎮 最近我在玩…
 ```text
 🎮 Bongo Cat                         🕘 47 hrs 40 mins
+🎮 MUSYNX                            🕘 0 hrs 41 mins
 🎮 Lossless Scaling                  🕘 6 hrs 22 mins
 🎮 Magicraft                         🕘 8 hrs 53 mins
 🎮 SHOOPER NOVA                      🕘 3 hrs 28 mins
-🍳 PUBG: BATTLEGROUNDS               🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
