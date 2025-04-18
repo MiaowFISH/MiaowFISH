@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Bongo Cat                         🕘 61 hrs 53 mins
+🎮 Bongo Cat                         🕘 77 hrs 24 mins
 🎮 MUSYNX                            🕘 0 hrs 41 mins
 🎮 Lossless Scaling                  🕘 6 hrs 22 mins
-🎮 Magicraft                         🕘 8 hrs 53 mins
-🎮 SHOOPER NOVA                      🕘 3 hrs 28 mins
+🎮 Magicraft                         🕘 12 hrs 54 mins
+🎮 SHOOPER NOVA                      🕘 4 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
