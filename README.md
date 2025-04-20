@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Bongo Cat                         🕘 90 hrs 17 mins
-🎮 MUSYNX                            🕘 0 hrs 41 mins
-🎮 Magicraft                         🕘 16 hrs 31 mins
-🎮 SHOOPER NOVA                      🕘 5 hrs 32 mins
-🎮 Minimalist Tower Defense          🕘 0 hrs 22 mins
+🎮 Bongo Cat                         🕘 103 hrs 41 mins
+🎮 MUSYNX                            🕘 0 hrs 26 mins
+🎮 Magicraft                         🕘 18 hrs 45 mins
+🎮 SHOOPER NOVA                      🕘 5 hrs 7 mins
+🎮 The Binding of Isaac: Rebirth     🕘 0 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
