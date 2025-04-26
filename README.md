@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Bongo Cat                         🕘 100 hrs 36 mins
+🎮 Bongo Cat                         🕘 97 hrs 52 mins
 🎮 MUSYNX                            🕘 0 hrs 52 mins
-🎮 Magicraft                         🕘 22 hrs 16 mins
+🎮 Magicraft                         🕘 19 hrs 46 mins
 🎮 SHOOPER NOVA                      🕘 4 hrs 48 mins
 🎮 The Binding of Isaac: Rebirth     🕘 0 hrs 24 mins
 ```
