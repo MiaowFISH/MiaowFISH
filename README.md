@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Bongo Cat                         🕘 67 hrs 35 mins
+🎮 Bongo Cat                         🕘 72 hrs 57 mins
 🎮 Mindustry                         🕘 22 hrs 25 mins
-🎮 MUSYNX                            🕘 0 hrs 52 mins
+🎮 MUSYNX                            🕘 0 hrs 22 mins
 🎮 Magicraft                         🕘 3 hrs 30 mins
 🎮 SHOOPER NOVA                      🕘 0 hrs 49 mins
 ```
