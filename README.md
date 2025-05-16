@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-🎮 Bongo Cat                         🕘 60 hrs 7 mins
-🎮 Mindustry                         🕘 4 hrs 6 mins
+🎮 Bongo Cat                         🕘 48 hrs 11 mins
+🎮 Mindustry                         🕘 1 hrs 55 mins
 🎮 Doloc Town                        🕘 14 hrs 12 mins
 🎮 Little Kitty, Big City            🕘 0 hrs 38 mins
 ```
