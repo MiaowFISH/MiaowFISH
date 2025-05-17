@@ -36,37 +36,37 @@ jobs:
 
           SHOW_UPDATED_DATE: False
 
-  update-steam-playtime:
-    name: Update Steam Playtime
-    runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-      STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: MARKDOWN
-      MARKDOWN_FILE: README.md
+  # update-steam-playtime:
+  #   name: Update Steam Playtime
+  #   runs-on: ubuntu-latest
+  #   env:
+  #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  #     STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+  #     STEAM_ID: ${{ secrets.STEAM_ID }}
+  #     UPDATE_OPTION: MARKDOWN
+  #     MARKDOWN_FILE: README.md
 
-    steps:
-      - name: Set up Go 1.x
-        uses: actions/setup-go@v2
-        with:
-          go-version: ^1.14
-        id: go
-      - name: Check out repo
-        uses: actions/checkout@v3
-      - uses: actions/setup-go@v2
-      - name: Clone and run steam-box
-        run: |-
-          git clone https://github.com/journey-ad/steam-box.git
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/
-      - name: Commit and push
-        shell: bash
-        run: |
-          ./steam
-          git config user.name "Steam-Bot"
-          git config user.email "bot@github.com"
-          git add README.md
-          git commit -m ":memo: update profile"
-          git pull --rebase
-          git push  
+  #   steps:
+  #     - name: Set up Go 1.x
+  #       uses: actions/setup-go@v2
+  #       with:
+  #         go-version: ^1.14
+  #       id: go
+  #     - name: Check out repo
+  #       uses: actions/checkout@v3
+  #     - uses: actions/setup-go@v2
+  #     - name: Clone and run steam-box
+  #       run: |-
+  #         git clone https://github.com/journey-ad/steam-box.git
+  #         cd steam-box && go build -o steam ./cmd/box/main.go
+  #         mv ./steam ../ && cd .. && rm -rf steam-box/
+  #     - name: Commit and push
+  #       shell: bash
+  #       run: |
+  #         ./steam
+  #         git config user.name "Steam-Bot"
+  #         git config user.email "bot@github.com"
+  #         git add README.md
+  #         git commit -m ":memo: update profile"
+  #         git pull --rebase
+  #         git push  
